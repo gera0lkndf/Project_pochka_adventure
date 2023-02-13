@@ -4,8 +4,8 @@ import pygame
 from player import *
 from blocks import *
 
-WIN_WIDTH = 1920
-WIN_HEIGHT = 1025
+WIN_WIDTH = 600
+WIN_HEIGHT = 600
 DISPLAY = (WIN_WIDTH, WIN_HEIGHT)
 BACKGROUND_COLOR = "#00bfff"
 
